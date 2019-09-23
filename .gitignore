@@ -1,0 +1,5 @@
+elasticsearch/es_data
+fess/docs/*
+
+!.gitkeep
+.DS_Store
