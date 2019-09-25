@@ -1,5 +1,4 @@
-elasticsearch/es_data
-fess/docs/*
+.vagrant
 
 !.gitkeep
 .DS_Store
