@@ -2,3 +2,5 @@
 
 !.gitkeep
 .DS_Store
+command.md
+k8s-3tier-webapp/
